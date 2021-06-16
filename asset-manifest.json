@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/RickAndMortyTest/static/css/main.a24182af.chunk.css",
+    "main.js": "/RickAndMortyTest/static/js/main.2d2abca2.chunk.js",
+    "main.js.map": "/RickAndMortyTest/static/js/main.2d2abca2.chunk.js.map",
+    "runtime-main.js": "/RickAndMortyTest/static/js/runtime-main.42bddc28.js",
+    "runtime-main.js.map": "/RickAndMortyTest/static/js/runtime-main.42bddc28.js.map",
+    "static/js/2.02c48318.chunk.js": "/RickAndMortyTest/static/js/2.02c48318.chunk.js",
+    "static/js/2.02c48318.chunk.js.map": "/RickAndMortyTest/static/js/2.02c48318.chunk.js.map",
+    "index.html": "/RickAndMortyTest/index.html",
+    "static/css/main.a24182af.chunk.css.map": "/RickAndMortyTest/static/css/main.a24182af.chunk.css.map",
+    "static/js/2.02c48318.chunk.js.LICENSE.txt": "/RickAndMortyTest/static/js/2.02c48318.chunk.js.LICENSE.txt",
+    "static/media/logo.e1f86449.svg": "/RickAndMortyTest/static/media/logo.e1f86449.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.42bddc28.js",
+    "static/js/2.02c48318.chunk.js",
+    "static/css/main.a24182af.chunk.css",
+    "static/js/main.2d2abca2.chunk.js"
+  ]
+}
