@@ -1,0 +1,22 @@
+.content-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.content-list{
+    margin-top: 160px;
+}
+
+.char-card {
+    max-width: 300px;
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    border: 1px solid #767676;
+}
+
+.char-data {
+    margin-right: 2rem;
+}
+
